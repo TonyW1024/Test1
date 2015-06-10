@@ -20,6 +20,7 @@ namespace Test1
         private void btnStart_Click(object sender, EventArgs e)
         {
             label1.Text = "Det fungerar!";
+            textBox1.Text = "Det här fungerar också!";
         }
     }
 }
